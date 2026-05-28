@@ -225,7 +225,6 @@ Customer-Behaviour-Analysis/
 │   └── customer_behavior_analysis 1.png
 │
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 

@@ -10,7 +10,7 @@ An end-to-end customer analytics project built using Python, SQL Server, and Pow
 
 ![Customer Behaviour Dashboard](customer_behavior_analysis.png)
 
-![Customer Behaviour Dashboard 2](customer_behavior_analysis 1.png)
+![Customer Behaviour Dashboard 2](customer_behavior_analysis1.png)
 
 ---
 
